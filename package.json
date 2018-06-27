@@ -1,6 +1,6 @@
 {
   "name": "bird-cli",
-  "version": "1.2.0",
+  "version": "1.0.0",
   "description": "自动化新建项目模块!",
   "main": "index.js",
   "scripts": {
